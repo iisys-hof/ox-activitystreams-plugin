@@ -4,6 +4,7 @@ Activitystreams Plugin for Open-Xchange as an OSGi Bundle.
 Configuration file: /src/main/resources/conf/activitystreams.properties
 
 Installation:
+
 1. Import project into Maven-enabled Eclipse
 2. Add Open-XChange and JSON Libraries to build path (com.openexchange.configread, com.openexchange.global, com.openexchange.osgi, com.openexchange.server)
 3. Export a library jar called "openxchange-activitystreams.jar" (due to OSGi Classpath)
